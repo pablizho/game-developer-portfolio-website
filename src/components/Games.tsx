@@ -25,7 +25,7 @@ const games: Game[] = [
     description:
       "A top-down dungeon crawler with procedurally generated levels and permadeath mechanics. Fight through endless floors, collect loot and grow stronger — until you don't.",
     tags: ["Pixel Art", "Procedural", "Solo dev"],
-    image: "/images/game-placeholder-1.jpg",
+    image: "images/game-placeholder-1.jpg",
     playUrl: "#",
     itchUrl: "#",
     githubUrl: "#",
